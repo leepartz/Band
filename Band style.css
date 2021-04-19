@@ -1,0 +1,29 @@
+body {
+    background-color: deepskyblue;
+}
+
+#bandname {
+    font-style: inherit;
+    color: yellow;
+}
+
+.favoriteband {
+    font-style: oblique;
+}
+
+table, th, td {
+    border: tomato;
+    border-collapse: collapse;
+}
+
+
+.flex-container {
+    display: flex;
+}
+
+.flex-container > div {
+    background-color: wheat;
+    margin: 12px;
+    padding: 15px;
+    font-size: medium;
+}
